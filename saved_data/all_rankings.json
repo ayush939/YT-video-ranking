@@ -1,0 +1,18 @@
+[
+  {
+    "query": "What are the health benefits of turmeric?",
+    "ranked_texts": [
+      "Turmeric is known for its anti-inflammatory properties.",
+      "Some studies suggest turmeric helps with brain function.",
+      "It is used widely in Indian cooking."
+    ]
+  },
+  {
+    "query": "How does photosynthesis work?",
+    "ranked_texts": [
+      "",
+      "",
+      ""
+    ]
+  }
+]
